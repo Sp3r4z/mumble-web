@@ -3,7 +3,7 @@
     "title": "Se connecter au serveur",
     "address": "Adresse",
     "port": "Port",
-    "username": "Nom d'utilisateur",
+    "username": "Nom d’utilisateurice",
     "password": "Mot de passe",
     "tokens": "Tokens",
     "remove": "Supprimer",
@@ -15,12 +15,12 @@
       "reason": {
         "refused": "La connexion a été refusée.",
         "version": "Le serveur utilise une version incompatible.",
-        "username": "Votre nom d'utilisateur a été refusé, veuillez en essayer un nouveau.",
-        "userpassword": "Le mot de passe est incorrect\nLe nom d'utilisateur que vous avez choisi en requiert un.",
+        "username": "Votre nom d’utilisateur a été refusé, veuillez en essayer un nouveau.",
+        "userpassword": "Le mot de passe est incorrect\nLe nom d’utilisateur que vous avez choisis en requiert un.",
         "serverpassword": "Le mot de passe est incorrect.",
-        "username_in_use": "Ce nom d'utilisateur est déja pris.",
+        "username_in_use": "Ce nom d’utilisateurice est déja pris.",
         "full": "Le serveur est complet.",
-        "clientcert": "Le serveur demande de fournir un certificat de client qui n'est pas pris en charge par cette application web.",
+        "clientcert": "Le serveur demande de fournir un certificat de client qui n'est pas pris en charge par cette application web.",",
         "server": "Le serveur indique :"
       },
       "retry": "Essayer à nouveau",
@@ -41,14 +41,14 @@
     "change_comment": "Modifier le commentaire",
     "reset_comment": "Réinitialiser le commentaire",
     "view_avatar": "Voir l'avatar",
-    "change_avatar": "Changer l'avatar",
-    "reset_avatar": "Réinitialiser l'avatar",
+    "change_avatar": "Changer l’avatar",
+    "reset_avatar": "Réinitialiser l’avatar",
     "send_message": "Envoyer le message",
     "information": "Information",
     "self_mute": "Couper mon son",
     "self_deafen": "Assourdir mon son",
     "add_friend": "Ajouter en ami⋅e",
-    "remove_friend": "Supprimer l'ami⋅e"
+    "remove_friend": "Supprimer cet⋅te ami⋅e"
   },
   "channelcontextmenu": {
     "join": "Rejoindre le salon",
@@ -59,7 +59,7 @@
     "unlink": "Supprimer le lien",
     "unlink_all": "Suppriemr tout les liens",
     "copy_mumble_url": "Copier l'URL du Mumble",
-    "copy_mumble_web_url": "Copeir l'URL du Mumble-Web",
+    "copy_mumble_web_url": "Copeir l’URL du Mumble-Web",
     "send_message": "Envoyer le message"
   }
 }
